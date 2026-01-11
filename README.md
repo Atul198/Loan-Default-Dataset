@@ -121,11 +121,5 @@ This confirms that **financial stability is the strongest driver of credit risk*
 
 ---
 
-## 👤 Author
-**Atul Giri Goswami**  
-Aspiring Data Scientist | Machine Learning Enthusiast
-
----
-
 ## 📄 License
 This project is for educational and research purposes.
